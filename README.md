@@ -17,3 +17,13 @@
     [“Hello”, “2”, “world”, “:-)”] → [“2”, “:-)”]
     [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
     [“Russia”, “Denmark”, “Kazan”] → []
+***
+ ### Solution
+
+ 1. [Repository](https://github.com/Irina-us/Final.git) created
+ 2. Block diagram
+
+ ![not mine](Block_diagram.drawio.png)
+
+ 3. File **README.md** created *(text description of the solution)*
+ 4. 
