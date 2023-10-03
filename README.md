@@ -26,4 +26,10 @@
  ![not mine](Block_diagram.drawio.png)
 
  3. File **README.md** created *(text description of the solution)*
- 4. 
+ 4. Pic solution
+
+![pic](Solution.png)
+
+ 5. Pic commits
+
+ ![pic2](Commits.png)
